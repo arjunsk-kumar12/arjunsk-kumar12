@@ -2,7 +2,7 @@
 
 I am currently a CS Student interested in Backend and Systems programming. 
 
-### Technologies I work with
+### Some Technologies I work with:
 - C
 - Node.js
 - MongoDB
