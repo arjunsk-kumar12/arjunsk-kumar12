@@ -8,8 +8,11 @@ I am currently a CS Student interested in Backend and Systems programming.
 - MongoDB
 - Linux
 
-### Projects
-- **Image Storage API** - Developed RESTful API for image upload and retrieval using Node.js, Express.js and MongoDB.
+### Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Image Storage API](https://github.com/arjunsk-kumar12/Image-Upload-API.git) | Developed an RESTful API for image upload and retrieval | Node.js, Express.js and MongoDB | 
+
 
 
 <!--
